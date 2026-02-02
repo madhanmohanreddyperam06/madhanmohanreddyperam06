@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 💫 About Me:
 I’m Madhan Mohan Reddy Peram, an aspiring AI and Software Developer with a strong interest in building practical, real-world applications using modern technologies. I enjoy working at the intersection of Python, Machine Learning, and full-stack development, where I can turn ideas into functional, user-friendly solutions.<br><br>I’ve worked on projects like AI-powered fitness trainers, chatbots, job portals with resume screening, and smart helpdesk systems, where I handled tasks such as data preprocessing, model integration, backend logic, and UI development using tools like Python, Streamlit, Flask, and ML frameworks. I’m particularly interested in LLMs, automation, and applied AI, and I like experimenting with new tools to improve system efficiency and user experience.<br><br>What sets me apart is my problem-solving mindset and eagerness to learn. I actively break down complex problems, explore multiple solutions, and focus on writing clean, maintainable code. I’m currently looking for opportunities where I can grow as a developer, contribute meaningfully to impactful projects, and continuously upskill in AI and software engineering.
 
@@ -24,5 +23,3 @@ I’m Madhan Mohan Reddy Peram, an aspiring AI and Software Developer with a str
 ---
 [![](https://visitcount.itsvg.in/api?id=madhanmohanreddyperam06&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
