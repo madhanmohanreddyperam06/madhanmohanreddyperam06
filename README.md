@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Madhan Mohan Reddy Peram
+# Madhan DEV
 
-### 🚀 AI Developer | Full Stack Developer | Machine Learning Enthusiast
+### Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Developer;Python+Developer;Full+Stack+Developer;Machine+Learning+Engineer;Building+LLM+Applications;Always+Learning+Something+New" />
 
