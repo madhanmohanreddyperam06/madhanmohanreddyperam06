@@ -1,25 +1,195 @@
-##                                                                                        Madhan DEV
+<div align="center">
 
-# 💫 About Me
-I’m Madhan Mohan Reddy Peram, an aspiring AI and Software Developer with a strong interest in building practical, real-world applications using modern technologies. I enjoy working at the intersection of Python, Machine Learning, and full-stack development, where I can turn ideas into functional, user-friendly solutions.<br><br>I’ve worked on projects like AI-powered fitness trainers, chatbots, job portals with resume screening, and smart helpdesk systems, where I handled tasks such as data preprocessing, model integration, backend logic, and UI development using tools like Python, Streamlit, Flask, and ML frameworks. I’m particularly interested in LLMs, automation, and applied AI, and I like experimenting with new tools to improve system efficiency and user experience.
+# 👋 Hi, I'm Madhan Mohan Reddy Peram
 
+### 🚀 AI Developer | Full Stack Developer | Machine Learning Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhan_me6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MadhanM16616334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhanmohanreddyperam06@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Developer;Python+Developer;Full+Stack+Developer;Machine+Learning+Engineer;Building+LLM+Applications;Always+Learning+Something+New" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhanmohanreddyperam06&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madhanmohanreddyperam06&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=madhanmohanreddyperam06&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madhanmohanreddyperam06&icon=1&color=4)](https://visitcount.itsvg.in)
 
+# 💫 About Me
+
+I'm a Computer Science (AI & ML) undergraduate passionate about creating intelligent software that solves real-world problems.
+
+My interests span across **Artificial Intelligence, Machine Learning, Full Stack Development, Large Language Models (LLMs), and Automation**.
+
+I enjoy transforming ideas into scalable applications that combine clean UI, robust backend systems, and AI-powered intelligence.
+
+---
+
+## 🚀 Current Focus
+
+🔹 Building AI-powered applications
+
+🔹 Exploring LLMs & RAG Systems
+
+🔹 FastAPI • React • Next.js
+
+🔹 Deep Learning
+
+🔹 Cloud Deployment
+
+🔹 Open Source Contributions
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+Python • Java • JavaScript • HTML • CSS
+
+## Frontend
+
+React • Next.js • Angular • TailwindCSS • Vite
+
+## Backend
+
+Node.js • Express • FastAPI • Django • Flask
+
+## AI / ML
+
+TensorFlow • PyTorch • Scikit-Learn
+
+Pandas • NumPy • SciPy
+
+LLMs • NLP
+
+## Database
+
+MySQL
+
+SQLite
+
+MongoDB
+
+## Tools
+
+Git
+
+GitHub
+
+GitLab
+
+Vercel
+
+NPM
+
+JWT
+
+---
+
+# 🌟 Featured Projects
+
+### 🤖 AI Fitness Trainer
+
+Virtual AI Trainer using Deep Learning and Computer Vision.
+
+---
+
+### 🎓 Smart College Helpdesk
+
+AI-powered chatbot for student support using NLP and Streamlit.
+
+---
+
+### 💼 AI Resume Screening System
+
+Resume parser with ML ranking and candidate recommendation.
+
+---
+
+### 🧠 IndusMind AI
+
+Industrial Knowledge Intelligence Platform powered by LLMs.
+
+---
+
+# 🏆 Achievements
+
+🥇 Python Programming Challenge Winner
+
+🏅 Young Turks 2025 Merit Certificate (97%)
+
+🏆 Coding Competition Finalist
+
+💻 AI Developer Intern
+
+🚀 Full Stack Web Developer Intern
+
+---
+
+# 📈 GitHub Analytics
+
+(Your GitHub stats)
+
+---
+
+# 🔥 Contribution Streak
+
+(Your streak)
+
+---
+
+# 📊 Most Used Languages
+
+(Language Card)
+
+---
+
+# 🏅 GitHub Trophies
+
+(Trophy Card)
+
+---
+
+# 📚 Currently Learning
+
+✔ Advanced FastAPI
+
+✔ LangChain
+
+✔ RAG Pipelines
+
+✔ LLM Fine-tuning
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Azure AI
+
+✔ AWS
+
+---
+
+# 🌐 Connect With Me
+
+LinkedIn
+
+Portfolio
+
+Email
+
+Twitter
+
+Instagram
+
+---
+
+# 💡 Favorite Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+Happy Coding 🚀
+
+</div>
