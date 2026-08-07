@@ -77,16 +77,9 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohanreddyperam06&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhanmohanreddyperam06&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
