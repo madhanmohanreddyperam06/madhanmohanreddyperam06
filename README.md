@@ -10,17 +10,17 @@
   </p>
 </div>
 
-## � About Me
+## About Me
 
 I'm an aspiring AI and Software Developer with a strong passion for building practical, real-world applications using modern technologies. I thrive at the intersection of **Python, Java, Machine Learning, and Full-Stack Development**, where I transform innovative ideas into functional, user-friendly solutions.
 
-### 💡 What I Do
+### What I Do
 - **AI/ML Development**: Building intelligent systems with LLMs, automation, and applied AI
 - **Full-Stack Development**: Creating end-to-end web applications with modern frameworks
 - **Data Engineering**: Processing and analyzing data for actionable insights
 - **System Integration**: Connecting diverse technologies for seamless user experiences
 
-### 🎯 Focus Areas
+### Focus Areas
 - Large Language Models (LLMs) and Generative AI
 - Automation and Workflow optimization
 - Applied Machine Learning in Real-World scenarios
@@ -28,7 +28,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +69,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📦 Development Tools
+### Development Tools
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=code&logoColor=white)
@@ -78,7 +78,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-## 🏆 HackerRank Analytics
+## HackerRank Analytics
 
 <div align="center">
   <a href="https://www.hackerrank.com/profile/h99220041310">
@@ -97,7 +97,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 
 <div align="center">
@@ -106,7 +106,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true&bg_color=000000&color=ffffff&line=00ff00&point=ffffff" alt="Activity Graph" />
@@ -114,7 +114,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:madhanmohanreddyperam06@gmail.com">
@@ -133,7 +133,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-## 📝 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
