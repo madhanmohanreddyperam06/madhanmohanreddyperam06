@@ -1,11 +1,12 @@
 <div align="center">
   <h1 align="center">Madhan DEV</h1>
-  <h3 align="center">AI & Software Developer | Full-Stack Enthusiast | ML Engineer</h3>
+  <h3 align="center">Developer </h3>
   <p align="center">
     <a href="https://github.com/madhanmohanreddyperam06"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://instagram.com/madhan_me6"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://x.com/MadhanM16616334"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+    <a href="https://madhan-portfollio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   </p>
 </div>
 
