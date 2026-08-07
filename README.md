@@ -127,7 +127,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=madhanmohanreddyperam06&icon=1&color=4" alt="Profile Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=madhanmohanreddyperam06.madhanmohanreddyperam06" alt="Profile Visitor Count" />
 </div>
 
 
@@ -136,9 +136,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
   <p>
-    Made with ❤️ by <a href="https://github.com/madhanmohanreddyperam06">Madhan Mohan Reddy Peram</a>
+    <a href="https://github.com/madhanmohanreddyperam06">Madhan Mohan Reddy Peram</a>
   </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/madhanmohanreddyperam06/madhanmohanreddyperam06/main/banner.gif" alt="footer banner" width="100%" />
-  </p>
+  
 </div>
