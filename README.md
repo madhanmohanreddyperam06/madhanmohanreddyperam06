@@ -94,8 +94,6 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
 <div align="center">
   <a href="mailto:madhanmohanreddyperam06@gmail.com">
     <img src="https://img.shields.io/badge/Email-madhanmohanreddyperam06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
