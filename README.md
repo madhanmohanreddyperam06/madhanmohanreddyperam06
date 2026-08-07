@@ -75,6 +75,25 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
+## 🏆 HackerRank Analytics
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/h99220041310">
+    <img src="https://img.shields.io/badge/HackerRank-h99220041310-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
+  </a>
+</div>
+
+<div align="center">
+  <h3>🏅 Achievements & Badges</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-Gold-yellow?style=flat-square&logo=python" alt="Python Gold Badge">
+  </p>
+</div>
+
+
+
+---
+
 ## 📊 GitHub Analytics
 
 
