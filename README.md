@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561447d0-3e49-4b8a-9ed0-5827482c4823.gif" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100&height=200&section=header&text=Madhan%20DEV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Software%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20ML%20Engineer&descAlignY=55&descAlign=62" alt="banner" width="100%" />
 </div>
 
 <div align="center">
@@ -18,10 +18,10 @@
 I'm an aspiring AI and Software Developer with a strong passion for building practical, real-world applications using modern technologies. I thrive at the intersection of **Python, Java, Machine Learning, and Full-Stack Development**, where I transform innovative ideas into functional, user-friendly solutions.
 
 ### 💡 What I Do
-- 🤖 **AI/ML Development**: Building intelligent systems with LLMs, automation, and applied AI
-- 🌐 **Full-Stack Development**: Creating end-to-end web applications with modern frameworks
-- 📊 **Data Engineering**: Processing and analyzing data for actionable insights
-- 🔧 **System Integration**: Connecting diverse technologies for seamless user experiences
+- **AI/ML Development**: Building intelligent systems with LLMs, automation, and applied AI
+- **Full-Stack Development**: Creating end-to-end web applications with modern frameworks
+- **Data Engineering**: Processing and analyzing data for actionable insights
+- **System Integration**: Connecting diverse technologies for seamless user experiences
 
 ### 🎯 Focus Areas
 - Large Language Models (LLMs) and Generative AI
@@ -33,27 +33,28 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🎨 Frontend Development
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🔧 Backend Development
+### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### Artificial Intelligence & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -62,8 +63,9 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -113,7 +115,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="https://github.com/madhanmohanreddyperam06">
     <img src="https://img.shields.io/badge/GitHub-madhanmohanreddyperam06-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="http://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
@@ -141,6 +143,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
     Made with ❤️ by <a href="https://github.com/madhanmohanreddyperam06">Madhan Mohan Reddy Peram</a>
   </p>
   <p>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561447d0-3e49-4b8a-9ed0-5827482c4823.gif" alt="footer banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/madhanmohanreddyperam06/madhanmohanreddyperam06/main/banner.gif" alt="footer banner" width="100%" />
   </p>
 </div>
