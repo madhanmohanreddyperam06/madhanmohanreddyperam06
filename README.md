@@ -136,7 +136,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=madhanmohanreddyperam06.madhanmohanreddyperam06" alt="Profile Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=madhanmohanreddyperam06.madhanmohanreddyperam06&left_text=Profile%20Views" alt="Profile Views" />
 </div>
 
 
