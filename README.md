@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100&height=200&section=header&text=Madhan%20DEV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Software%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20ML%20Engineer&descAlignY=55&descAlign=62" alt="banner" width="100%" />
+</div>
+
+<div align="center">
   <h1 align="center">Madhan DEV</h1>
   <h3 align="center">AI & Software Developer | Full-Stack Enthusiast | ML Engineer</h3>
   <p align="center">
@@ -95,7 +99,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&theme=shadow-blue&custom_title=Contribution%20Graph&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
