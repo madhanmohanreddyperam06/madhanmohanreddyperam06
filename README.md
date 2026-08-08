@@ -141,8 +141,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100&height=100&section=footer&text=Made%20with%20 %20by%20Madhan%20Mohan%20Reddy%20Peram&fontSize=20&fontColor=fff&animation=twinkling" alt="footer" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100&height=100&section=footer&text=Madhan%20Mohan%20Reddy%20Peram&fontSize=20&fontColor=fff&animation=twinkling" alt="footer" />
 </div>
+
 
