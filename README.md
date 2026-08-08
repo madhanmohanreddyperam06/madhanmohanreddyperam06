@@ -96,7 +96,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ---
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table border="0">
