@@ -149,3 +149,206 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
     <a href="https://github.com/madhanmohanreddyperam06">Madhan Mohan Reddy Peram</a>
   </p>
 </div>
+
+
+<a name="top"></a>
+<div align="center">
+  <h1 align="center">Hi there, I'm Madhan Mohan Reddy Peram 👋</h1>
+  <h3 align="center">AI & Full-Stack Software Developer</h3>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Developer;Full-Stack+Web+Developer;Python+%26+Java+Enthusiast;Problem+Solver+%26+Open+Source" alt="Typing SVG" /></a>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://github.com/madhanmohanreddyperam06"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://instagram.com/madhan_me6"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://x.com/MadhanM16616334"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+    <a href="https://madhan-portfollio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  </p>
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+I am an aspiring **AI and Software Developer** passionate about building intelligent, practical applications using modern technologies. I specialize in **Python, Java, Machine Learning, and Full-Stack Web Development**, turning innovative ideas into scalable, high-performance solutions.
+
+### ⚡ Quick Status
+- 🔭 **Currently working on**: Intelligent AI automation tools & full-stack web applications
+- 📚 **Currently learning**: Advanced Large Language Models (LLMs), RAG, and System Design
+- 👯 **Looking to collaborate on**: Open-source AI/ML projects and modern web applications
+- 💬 **Ask me about**: Python, Java, React, Next.js, Machine Learning, FastAPI & MySQL
+- 📫 **How to reach me**: `madhanmohanreddyperam06@gmail.com` | `+91 9110395993`
+- 🎯 **Career Goal**: To innovate and engineer high-impact AI solutions for real-world problems
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI / ML Applications</h3>
+      <p align="center">
+        <b>Intelligent Automation & Predictive Systems</b>
+      </p>
+      <p>Building custom Machine Learning pipelines, NLP systems, and LLM-powered integrations to automate real-world workflows and gain actionable data insights.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Modern Full-Stack Web App</h3>
+      <p align="center">
+        <b>Scalable Web Platforms</b>
+      </p>
+      <p>Developing dynamic, responsive web interfaces backed by resilient REST APIs, modern database management, and cloud deployment pipelines.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend Development
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 AI, Machine Learning & LLMs
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🛢️ Databases & Cloud DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📦 Tools & Utilities
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/top-langs/?username=madhanmohanreddyperam06&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&theme=tokyonight&custom_title=Contribution%20Graph&hide_border=false&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=ffffff" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 HackerRank & Coding Achievements
+
+<div align="center">
+  <a href="https://www.hackerrank.com/profile/h99220041310">
+    <img src="https://img.shields.io/badge/HackerRank-h99220041310-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Gold%20Badge%205%E2%AD%90-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Gold Badge">
+  <img src="https://img.shields.io/badge/Problem%20Solving-5%E2%AD%90-blue?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving">
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:madhanmohanreddyperam06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-madhanmohanreddyperam06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="tel:+919110395993">
+    <img src="https://img.shields.io/badge/Mobile-+91%209110395993-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile">
+  </a>
+  <a href="https://github.com/madhanmohanreddyperam06">
+    <img src="https://img.shields.io/badge/GitHub-madhanmohanreddyperam06-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+## 📝 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=madhanmohanreddyperam06.madhanmohanreddyperam06&left_text=Profile%20Views" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="#top"><b>⬆️ Back to Top</b></a>
+</div>
