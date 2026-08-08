@@ -121,6 +121,8 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&theme=tokyonight&custom_title=Contribution%20Graph&hide_border=false&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=ffffff" alt="Activity Graph" />
 </div>
+
+---
 ---
 
 ## Let's Connect
