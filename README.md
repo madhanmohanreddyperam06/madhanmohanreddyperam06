@@ -98,21 +98,6 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ## GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/top-langs/?username=madhanmohanreddyperam06&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
