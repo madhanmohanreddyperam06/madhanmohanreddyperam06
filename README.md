@@ -102,7 +102,9 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
 </picture>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
@@ -111,11 +113,13 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 <br/><br/>
 
+<div style="border: 1px solid white; display: inline-block; border-radius: 8px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
   <img src="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" />
 </picture>
+</div>
 
 </div>
 
