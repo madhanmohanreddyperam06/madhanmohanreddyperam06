@@ -98,7 +98,27 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <img src="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" />
+</picture>
+
 </div>
 
 ---
@@ -106,7 +126,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&theme=tokyonight&custom_title=Contribution%20Graph&hide_border=false&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&custom_title=Contribution%20Graph&hide_border=false&bg_color=000000&color=C41E3A&line=C41E3A&point=ffffff" alt="Activity Graph" />
 </div>
 
 ---
