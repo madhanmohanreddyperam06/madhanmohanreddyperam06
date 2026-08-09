@@ -149,7 +149,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Visit-C41E3A?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://hits.sh/github.com/madhanmohanreddyperam06.svg?label=Profile%20Views&color=C41E3A&logo=github&logoColor=white&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
