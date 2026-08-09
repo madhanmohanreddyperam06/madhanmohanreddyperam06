@@ -125,7 +125,6 @@ An aspiring AI and Software Developer with a strong passion for building practic
 <div align="left">
   <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Email-madhanmohanreddyperam06@gmail.com-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="tel:+919110395993"><img src="https://img.shields.io/badge/Mobile-+91%209110395993-C41E3A?style=flat-square&logo=whatsapp&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/madhanmohanreddyperam06"><img src="https://img.shields.io/badge/GitHub-madhanmohanreddyperam06-C41E3A?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253"><img src="https://img.shields.io/badge/LinkedIn-Connect-C41E3A?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
