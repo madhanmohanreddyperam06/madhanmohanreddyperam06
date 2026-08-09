@@ -36,7 +36,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-C41E3A?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-C41E3A?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-C41E3A?style=flat-square&logo=css&logoColor=white)
 ![React](https://img.shields.io/badge/react-C41E3A?style=flat-square&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-C41E3A?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-C41E3A?style=flat-square&logo=angular&logoColor=white)
