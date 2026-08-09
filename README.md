@@ -90,6 +90,8 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
   <img src="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
 </picture>
 
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
@@ -111,7 +113,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ## Contribution Graph
 
 <div align="left">
-  <div style="border-radius: 8px; overflow: hidden;">
+  <div style="border-radius: 12px; overflow: hidden;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&custom_title=Contribution%20Graph&hide_border=false&bg_color=000000&color=C41E3A&line=C41E3A&point=ffffff" alt="Activity Graph" />
   </div>
 </div>
