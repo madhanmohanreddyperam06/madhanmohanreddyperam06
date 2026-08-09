@@ -140,14 +140,6 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-## Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
 <div align="center">
   <img src="https://hits.sh/github.com/madhanmohanreddyperam06.svg?label=Profile%20Views&color=C41E3A&logo=github&logoColor=white&style=flat-square" alt="Profile Views" />
 </div>
