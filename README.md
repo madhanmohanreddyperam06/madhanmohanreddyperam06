@@ -19,7 +19,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-C41E3A?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-C41E3A?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-C41E3A?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-C41E3A?style=flat-square&logo=javascript&logoColor=white)
 
 ### Frontend Development
@@ -39,11 +39,11 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ![Flask](https://img.shields.io/badge/flask-C41E3A?style=flat-square&logo=flask&logoColor=white)
 
 ### Artificial Intelligence & Machine Learning
+![NumPy](https://img.shields.io/badge/numpy-C41E3A?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-C41E3A?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-C41E3A?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-C41E3A?style=flat-square&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-C41E3A?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-C41E3A?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-C41E3A?style=flat-square&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-C41E3A?style=flat-square&logo=scipy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-C41E3A?style=flat-square&logo=streamlit&logoColor=white)
 
@@ -52,9 +52,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ![Oracle](https://img.shields.io/badge/Oracle-C41E3A?style=flat-square&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/git-C41E3A?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-C41E3A?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-C41E3A?style=flat-square&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-C41E3A?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-C41E3A?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### Development Tools
 ![NPM](https://img.shields.io/badge/NPM-C41E3A?style=flat-square&logo=npm&logoColor=white)
