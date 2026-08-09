@@ -19,7 +19,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-C41E3A?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-C41E3A?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-C41E3A?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-C41E3A?style=flat-square&logo=javascript&logoColor=white)
 
 ### Frontend Development
