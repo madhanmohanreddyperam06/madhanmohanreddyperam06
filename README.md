@@ -1,7 +1,7 @@
-<div align="center">
-  <h1 align="center">Madhan DEV</h1>
-  <h3 align="center">Developer </h3>
-  <p align="center">
+<div align="left">
+  <h1 align="left">Madhan DEV</h1>
+  <h3 align="left">Developer </h3>
+  <p align="left">
     <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
     <a href="https://instagram.com/madhan_me6"><img src="https://img.shields.io/badge/Instagram-madhan_me6-C41E3A?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
     <a href="https://x.com/MadhanM16616334"><img src="https://img.shields.io/badge/X-MadhanM16616334-C41E3A?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
@@ -79,11 +79,11 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ## HackerRank Analytics
 
-<div align="center">
+<div align="left">
   <a href="https://www.hackerrank.com/profile/h99220041310"><img src="https://img.shields.io/badge/HackerRank-h99220041310-C41E3A?style=flat-square&logo=hackerrank&logoColor=white" /></a>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Achievements & Badges</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-Gold-C41E3A?style=flat-square&logo=python&logoColor=white" />
@@ -95,7 +95,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ## GitHub Analytics
 
-<div align="center">
+<div align="left">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
@@ -123,7 +123,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ## Contribution Graph
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&custom_title=Contribution%20Graph&hide_border=false&bg_color=000000&color=C41E3A&line=C41E3A&point=ffffff" alt="Activity Graph" />
 </div>
 
@@ -131,7 +131,7 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ## Let's Connect
 
-<div align="center">
+<div align="left">
   <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Email-madhanmohanreddyperam06@gmail.com-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="tel:+919110395993"><img src="https://img.shields.io/badge/Mobile-+91%209110395993-C41E3A?style=flat-square&logo=whatsapp&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/madhanmohanreddyperam06"><img src="https://img.shields.io/badge/GitHub-madhanmohanreddyperam06-C41E3A?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
@@ -140,12 +140,12 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://hits.sh/github.com/madhanmohanreddyperam06.svg?label=Profile%20Views&color=C41E3A&logo=github&logoColor=white&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=120&section=footer&text=Madhan%20Mohan%20Reddy%20Peram&fontSize=22&fontColor=fff&animation=twinkling" alt="footer" />
 </div>
