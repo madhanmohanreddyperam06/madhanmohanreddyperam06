@@ -2,10 +2,10 @@
   <h1 align="center">Madhan DEV</h1>
   <h3 align="center">Developer </h3>
   <p align="center">
-    <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://instagram.com/madhan_me6"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://x.com/MadhanM16616334"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-    <a href="https://madhan-portfollio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+    <a href="https://instagram.com/madhan_me6"><img src="https://img.shields.io/badge/Instagram-madhan_me6-C41E3A?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+    <a href="https://x.com/MadhanM16616334"><img src="https://img.shields.io/badge/X-MadhanM16616334-C41E3A?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+    <a href="https://madhan-portfollio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-C41E3A?style=flat-square&logo=vercel&logoColor=white" /></a>
   </p>
 </div>
 
@@ -80,15 +80,13 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ## HackerRank Analytics
 
 <div align="center">
-  <a href="https://www.hackerrank.com/profile/h99220041310">
-    <img src="https://img.shields.io/badge/HackerRank-h99220041310-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
-  </a>
+  <a href="https://www.hackerrank.com/profile/h99220041310"><img src="https://img.shields.io/badge/HackerRank-h99220041310-C41E3A?style=flat-square&logo=hackerrank&logoColor=white" /></a>
 </div>
 
 <div align="center">
   <h3>Achievements & Badges</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-Gold-yellow?style=flat-square&logo=python" alt="Python Gold Badge">
+    <img src="https://img.shields.io/badge/Python-Gold-C41E3A?style=flat-square&logo=python&logoColor=white" />
   </p>
 </div>
 
@@ -134,18 +132,10 @@ I'm an aspiring AI and Software Developer with a strong passion for building pra
 ## Let's Connect
 
 <div align="center">
-  <a href="mailto:madhanmohanreddyperam06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-madhanmohanreddyperam06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="tel:+919110395993">
-    <img src="https://img.shields.io/badge/Mobile-+91%209110395993-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile">
-  </a>
-  <a href="https://github.com/madhanmohanreddyperam06">
-    <img src="https://img.shields.io/badge/GitHub-madhanmohanreddyperam06-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Email-madhanmohanreddyperam06@gmail.com-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="tel:+919110395993"><img src="https://img.shields.io/badge/Mobile-+91%209110395993-C41E3A?style=flat-square&logo=whatsapp&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/madhanmohanreddyperam06"><img src="https://img.shields.io/badge/GitHub-madhanmohanreddyperam06-C41E3A?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253"><img src="https://img.shields.io/badge/LinkedIn-Connect-C41E3A?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
