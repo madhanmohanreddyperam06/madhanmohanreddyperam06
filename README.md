@@ -13,18 +13,6 @@
 
 I'm an aspiring AI and Software Developer with a strong passion for building practical, real-world applications using modern technologies. I thrive at the intersection of **Python, Java, Machine Learning, and Full-Stack Development**, where I transform innovative ideas into functional, user-friendly solutions.
 
-### What I Do
-- **AI/ML Development**: Building intelligent systems with LLMs, automation, and applied AI
-- **Full-Stack Development**: Creating end-to-end web applications with modern frameworks
-- **Data Engineering**: Processing and analyzing data for actionable insights
-- **System Integration**: Connecting diverse technologies for seamless user experiences
-
-### Focus Areas
-- Large Language Models (LLMs) and Generative AI
-- Automation and Workflow optimization
-- Applied Machine Learning in Real-World scenarios
-- Modern Web Development with React, Next.js, and Python frameworks
-
 ---
 
 ## Tech Stack
