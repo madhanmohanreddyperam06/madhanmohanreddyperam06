@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm an aspiring AI and Software Developer with a strong passion for building practical, real-world applications using modern technologies. I thrive at the intersection of **Python, Java, Machine Learning, and Full-Stack Development**, where I transform innovative ideas into functional, user-friendly solutions.
+An aspiring AI and Software Developer with a strong passion for building practical, real-world applications using modern technologies. I thrive at the intersection of **Python, Java, Machine Learning, and Full-Stack Development**, where I transform innovative ideas into functional, user-friendly solutions.
 
 ---
 
