@@ -1,6 +1,6 @@
 <div align="left">
   <h1 align="left"><span style="color: #C41E3A;">Madhan DEV</span></h1>
-  <h3 align="left">Developer </h3>
+  <h3 align="left">Developer</h3>
   <p align="left">
     <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
     <a href="https://instagram.com/madhan_me6"><img src="https://img.shields.io/badge/Instagram-madhan_me6-C41E3A?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
