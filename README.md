@@ -24,7 +24,7 @@ An aspiring AI and Software Developer with a strong passion for building practic
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-C41E3A?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-C41E3A?style=flat-square&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-C41E3A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwbTcuMDkgNC40MTNMNS40MSA0LjQxbC4yMTMgMi42MjIgMTAuMTI1LjAwMi0uMjU1IDIuNzE2aC02LjY0bC4yNCAyLjU3M2g2LjE4MmwtLjM2NiAzLjUyMy0yLjkxLjgwNC0yLjk1Ni0uODEtLjE4OC0yLjExaC0yLjYxbC4yOSAzLjg1NUwxMiAxOS4yODhsNS4zNzMtMS41M0wxOC41OSA0LjQxNHoiLz48L3N2Zz4=&logoColor=white)
 ![React](https://img.shields.io/badge/react-C41E3A?style=flat-square&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-C41E3A?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-C41E3A?style=flat-square&logo=angular&logoColor=white)
@@ -111,12 +111,11 @@ An aspiring AI and Software Developer with a strong passion for building practic
 
 ## Contribution Graph
 
-<div style="border-radius: 12px; overflow: hidden; border: 1px solid #C41E3A;">
-    <a href="https://github.com/madhanmohanreddyperam06">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&custom_title=Contribution%20Activity%20Graph&hide_border=false&border=C41E3A&bg_color=0d1117&color=C41E3A&line=C41E3A&point=ffffff" width="100%" alt="Contribution Graph" />
-    </a>
+<div align="left">
+  <div style="border-radius: 12px; overflow: hidden;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&custom_title=Contribution%20Graph&hide_border=false&bg_color=000000&color=C41E3A&line=C41E3A&point=ffffff" alt="Activity Graph" />
   </div>
-
+</div>
 
 ---
 
