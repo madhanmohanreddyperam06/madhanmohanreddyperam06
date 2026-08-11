@@ -86,7 +86,7 @@ An aspiring AI and Software Developer with a strong passion for building practic
 
 <div align="center">
 
-<table style="border-collapse: separate; border-spacing: 10px;">
+<table style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td style="padding: 0; border: none;">
       <picture>
@@ -104,7 +104,7 @@ An aspiring AI and Software Developer with a strong passion for building practic
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding: 10px 0 0 0; border: none;">
+    <td colspan="2" align="center" style="padding: 0; border: none;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
