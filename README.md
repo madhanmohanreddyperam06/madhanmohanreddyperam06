@@ -86,33 +86,27 @@ An aspiring AI and Software Developer with a strong passion for building practic
 
 <div align="left">
 
-<div style="border: 2px solid #C41E3A; border-radius: 10px; margin: 0; line-height: 0; display: inline-block;">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" style="display: block;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" height="180" alt="stats" />
 </picture>
-</div>
 
 <br/>
 
-<div style="border: 2px solid #C41E3A; border-radius: 10px; margin: 0; line-height: 0; display: inline-block;">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" style="display: block;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" height="180" alt="langs" />
 </picture>
-</div>
 
 <br/>
 
-<div style="border: 2px solid #C41E3A; border-radius: 10px; margin: 0; line-height: 0; display: inline-block;">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" style="display: block;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" alt="streak" />
 </picture>
-</div>
 </div>
 
 ---
@@ -122,9 +116,7 @@ An aspiring AI and Software Developer with a strong passion for building practic
 
 <div align="center">
 
-<div style="border: 2px solid #C41E3A; border-radius: 10px; display: inline-block; overflow: hidden;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&bg_color=ffffff00&color=C41E3A&line=C41E3A&point=C41E3A&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&bg_color=ffffff00&color=C41E3A&line=C41E3A&point=C41E3A&area=true&hide_border=false&custom_title=Contribution%20Activity&border_color=C41E3A&border_radius=10" width="95%"/>
 
 </div>
 
