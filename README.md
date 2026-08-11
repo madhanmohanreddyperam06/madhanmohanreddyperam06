@@ -1,5 +1,7 @@
 <div align="left">
-  <h1 align="left"><span style="color: #C41E3A;">Madhan DEV</span></h1>
+  <h1><div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=200&section=header&text=Madhan%20DEV&fontSize=60&fontColor=fff&animation=twinkling" alt="header" />
+</div></h1>
   <h3 align="left">Developer</h3>
   <p align="left">
     <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
