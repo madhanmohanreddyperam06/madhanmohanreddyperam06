@@ -108,9 +108,9 @@ An aspiring AI and Software Developer with a strong passion for building practic
 
 <div style="border: 2px solid #C41E3A; border-radius: 10px; margin: 0; line-height: 0; display: inline-block;">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-  <img src="https://streak-stats.demolab.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" style="display: block;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhanmohanreddyperam06&hide_border=true&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" style="display: block;" />
 </picture>
 </div>
 </div>
