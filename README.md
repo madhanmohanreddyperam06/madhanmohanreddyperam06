@@ -111,11 +111,12 @@ An aspiring AI and Software Developer with a strong passion for building practic
 
 ## Contribution Graph
 
-<div align="left">
-  <div style="border-radius: 12px; overflow: hidden;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&custom_title=Contribution%20Graph&hide_border=false&bg_color=000000&color=C41E3A&line=C41E3A&point=ffffff" alt="Activity Graph" />
+<div style="border-radius: 12px; overflow: hidden; border: 1px solid #C41E3A;">
+    <a href="https://github.com/madhanmohanreddyperam06">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanmohanreddyperam06&custom_title=Contribution%20Activity%20Graph&hide_border=false&border=C41E3A&bg_color=0d1117&color=C41E3A&line=C41E3A&point=ffffff" width="100%" alt="Contribution Graph" />
+    </a>
   </div>
-</div>
+
 
 ---
 
