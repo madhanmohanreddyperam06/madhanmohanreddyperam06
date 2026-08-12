@@ -136,6 +136,7 @@ AI and Software Developer with a strong passion for building practical, real-wor
 <div align="left">
   <img src="https://hits.sh/github.com/madhanmohanreddyperam06.svg?label=Profile%20Views&color=C41E3A&logo=github&logoColor=white&style=flat-square" alt="Profile Views" />
 </div>
+
 ---
 
 <div align="left">
