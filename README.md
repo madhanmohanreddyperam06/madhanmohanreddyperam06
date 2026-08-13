@@ -100,6 +100,26 @@ AI and Software Developer with a strong passion for building practical, real-wor
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" height="180" alt="langs" />
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" alt="streak" />
+</picture>
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophies.vercel.app/?username=madhanmohanreddyperam06&theme=onedark&no-frame=true&no-bg=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophies.vercel.app/?username=madhanmohanreddyperam06&theme=flat&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophies.vercel.app/?username=madhanmohanreddyperam06&theme=flat&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </picture>
+</div>
 
 ---
 
