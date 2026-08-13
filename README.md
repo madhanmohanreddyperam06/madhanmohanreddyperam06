@@ -103,9 +103,9 @@ AI and Software Developer with a strong passion for building practical, real-wor
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" />
-  <img src="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10&timezone=Asia/Kolkata" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10&timezone=Asia/Kolkata" />
+  <img src="https://streak-stats.demolab.com/?user=madhanmohanreddyperam06&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A&border_radius=10&timezone=Asia/Kolkata" alt="streak" />
 </picture>
 </div>
 
