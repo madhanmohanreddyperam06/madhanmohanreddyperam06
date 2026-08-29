@@ -1,0 +1,79 @@
+<svg width="800" height="300" viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 16px 'Segoe UI', Ubuntu, sans-serif; fill: #C41E3A; }
+    .label { font: 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .grid { stroke: #30363d; stroke-dasharray: 2 4; stroke-width: 1; }
+    .line { stroke: #C41E3A; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .point { fill: #C41E3A; stroke: #ffffff; stroke-width: 2; }
+  </style>
+
+  <defs>
+    <linearGradient id="areaGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C41E3A" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#C41E3A" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border Card -->
+  <rect x="1" y="1" width="798" height="298" rx="10" fill="#0d1117" stroke="#C41E3A" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="30" y="38" class="title">Contribution Activity Graph (Last 31 Days)</text>
+
+  <!-- Horizontal Grid Lines -->
+  <line x1="50" y1="70" x2="760" y2="70" class="grid"/>
+  <line x1="50" y1="120" x2="760" y2="120" class="grid"/>
+  <line x1="50" y1="170" x2="760" y2="170" class="grid"/>
+  <line x1="50" y1="220" x2="760" y2="220" class="grid"/>
+
+  <!-- Y-Axis Labels -->
+  <text x="35" y="74" class="label" text-anchor="end">6</text>
+  <text x="35" y="124" class="label" text-anchor="end">4</text>
+  <text x="35" y="174" class="label" text-anchor="end">2</text>
+  <text x="35" y="224" class="label" text-anchor="end">0</text>
+
+  <!-- Area Fill -->
+  <path d="M 60 220 
+           Q 120 220, 150 200 
+           T 240 210 
+           T 330 190 
+           T 420 160 
+           T 510 210 
+           T 600 170 
+           T 690 100 
+           T 750 120 
+           L 750 220 L 60 220 Z" fill="url(#areaGradient)"/>
+
+  <!-- Smooth Activity Curve -->
+  <path d="M 60 220 
+           Q 120 220, 150 200 
+           T 240 210 
+           T 330 190 
+           T 420 160 
+           T 510 210 
+           T 600 170 
+           T 690 100 
+           T 750 120" class="line"/>
+
+  <!-- Data Points -->
+  <circle cx="60" cy="220" r="4" class="point"/>
+  <circle cx="150" cy="200" r="4" class="point"/>
+  <circle cx="240" cy="210" r="4" class="point"/>
+  <circle cx="330" cy="190" r="4" class="point"/>
+  <circle cx="420" cy="160" r="4" class="point"/>
+  <circle cx="510" cy="210" r="4" class="point"/>
+  <circle cx="600" cy="170" r="4" class="point"/>
+  <circle cx="690" cy="100" r="5" class="point"/>
+  <circle cx="750" cy="120" r="4" class="point"/>
+
+  <!-- X-Axis Date Labels -->
+  <text x="60" y="250" class="label" text-anchor="middle">Jul 30</text>
+  <text x="150" y="250" class="label" text-anchor="middle">Aug 03</text>
+  <text x="240" y="250" class="label" text-anchor="middle">Aug 07</text>
+  <text x="330" y="250" class="label" text-anchor="middle">Aug 11</text>
+  <text x="420" y="250" class="label" text-anchor="middle">Aug 15</text>
+  <text x="510" y="250" class="label" text-anchor="middle">Aug 19</text>
+  <text x="600" y="250" class="label" text-anchor="middle">Aug 23</text>
+  <text x="690" y="250" class="label" text-anchor="middle">Aug 27</text>
+  <text x="750" y="250" class="label" text-anchor="middle">Aug 29</text>
+</svg>

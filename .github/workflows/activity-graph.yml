@@ -1,0 +1,33 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-activity-graph
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output: profile-activity-graph.svg
+          theme: react-dark
+          bg_color: "00000000"
+          title_color: "C41E3A"
+          color: "c9d1d9"
+          line: "C41E3A"
+          point: "C41E3A"
+          area: true
+          hide_border: false
+          border_color: "C41E3A"
