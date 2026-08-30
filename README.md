@@ -106,14 +106,6 @@ AI and Software Developer with a strong passion for building practical, real-wor
 
 ---
 
-## Contribution Activity Graph
-
-<div align="left">
-  <img src="profile-activity-graph.svg" alt="Contribution Activity Graph" width="100%" />
-</div>
-
----
-
 ## GitHub Trophies
 
 <div align="left">
