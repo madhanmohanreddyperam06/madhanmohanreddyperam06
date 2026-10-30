@@ -84,22 +84,6 @@ AI and Software Developer with a strong passion for building practical and real-
   </a>
 </div>
 
-<div align="left">
-  <h3>Topic Analytics</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Math-7-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Array-6-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/String-4-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Bit%20Manipulation-4-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Hash%20Table-3-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Two%20Pointers-3-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Sorting-2-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Binary%20Search-1-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Dynamic%20Programming-1-C41E3A?style=flat-square" />
-    <img src="https://img.shields.io/badge/Recursion-1-C41E3A?style=flat-square" />
-  </p>
-</div>
-
 ---
 
 ## GitHub Analytics
