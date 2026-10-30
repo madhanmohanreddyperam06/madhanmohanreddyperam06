@@ -13,7 +13,7 @@
 
 ## About Me
 
-AI and Software Developer with a strong passion for building practical and real-world applications using modern technologies. I thrive at the intersection of **Python, Java, Machine Learning, and Full-Stack Development**, where I transform innovative ideas into functional, user-friendly solutions.
+AI and Software Developer with a strong passion for building practical and real-world applications using modern technologies. I thrive at the intersection of **Python, Java, Machine Learning and Full-Stack Development**, where I transform innovative ideas into functional, user-friendly solutions.
 
 ---
 
@@ -87,17 +87,17 @@ AI and Software Developer with a strong passion for building practical and real-
 <div align="left">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" height="180" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" />
+  <img src="https://github-stats-extended.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=10" height="180" alt="stats" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" height="180" alt="langs" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=10" height="180" alt="langs" />
 </picture>
 
 <br/>
