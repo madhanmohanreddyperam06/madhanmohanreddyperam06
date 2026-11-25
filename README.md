@@ -86,13 +86,13 @@ Software Developer with a strong passion for building practical and real-world a
 
 <div align="left">
   <div>
-    <img src="https://github-stats-extended.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=C41E3A&ring_color=C41E3A&bg_color=000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=C41E3A&border_radius=4.5" alt="stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=C41E3A&ring_color=C41E3A&bg_color=000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=ffffff55&border_radius=4.5" height="180" alt="stats" />
   </div>
   <div>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=false&layout=compact&langs_count=8&border_color=C41E3A&border_radius=4.5" alt="langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=false&layout=compact&langs_count=8&border_color=ffffff55&border_radius=4.5" height="180" alt="langs" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohanreddyperam06&theme=dark&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=C41E3A" alt="streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohanreddyperam06&theme=dark&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ffffff55" height="180" alt="streak" />
   </div>
 </div>
 
