@@ -7,7 +7,7 @@
     <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
     <a href="https://instagram.com/madhan_me6"><img src="https://img.shields.io/badge/Instagram-madhan_me6-C41E3A?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
     <a href="https://x.com/MadhanM16616334"><img src="https://img.shields.io/badge/X-MadhanM16616334-C41E3A?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
-    <a href="https://portfolio-qto0.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-C41E3A?style=flat-square&logo=vercel&logoColor=white" /></a>
+    <a href="https://portfolio-qto0.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-C41E3A?style=flat-square&logo=render&logoColor=white" /></a>
   </p>
 </div>
 
@@ -86,13 +86,19 @@ Software Developer with a strong passion for building practical and real-world a
 
 <div align="left">
   <div>
-    <img src="https://github-stats-extended.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=C41E3A&ring_color=C41E3A&bg_color=000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=ffffff55&border_radius=4.5" height="180" alt="stats" />
+    <a href="https://github.com/madhanmohanreddyperam06">
+      <img src="https://github-stats-extended.vercel.app/api?username=madhanmohanreddyperam06&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=C41E3A&ring_color=C41E3A&bg_color=000000&hide_border=false&include_all_commits=true&rank_icon=github&border_color=ffffff55&border_radius=4.5" height="180" alt="stats" />
+    </a>
   </div>
   <div>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=false&layout=compact&langs_count=8&border_color=ffffff55&border_radius=4.5" height="180" alt="langs" />
+    <a href="https://github.com/madhanmohanreddyperam06">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhanmohanreddyperam06&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=false&layout=compact&langs_count=8&border_color=ffffff55&border_radius=4.5" height="180" alt="langs" />
+    </a>
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohanreddyperam06&theme=dark&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ffffff55" height="180" alt="streak" />
+    <a href="https://github.com/madhanmohanreddyperam06">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhanmohanreddyperam06&theme=dark&hide_border=false&background=000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ffffff55" height="180" alt="streak" />
+    </a>
   </div>
 </div>
 
@@ -101,11 +107,7 @@ Software Developer with a strong passion for building practical and real-world a
 ## GitHub Trophies
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophies.vercel.app/?username=madhanmohanreddyperam06&theme=onedark&no-frame=true&no-bg=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophies.vercel.app/?username=madhanmohanreddyperam06&theme=flat&no-frame=true&no-bg=true" />
-    <img src="https://github-profile-trophies.vercel.app/?username=madhanmohanreddyperam06&theme=flat&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </picture>
+  <img src="https://github-profile-trophies.vercel.app/?username=madhanmohanreddyperam06&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -115,8 +117,7 @@ Software Developer with a strong passion for building practical and real-world a
 <div align="left">
   <a href="mailto:madhanmohanreddyperam06@gmail.com"><img src="https://img.shields.io/badge/Email-madhanmohanreddyperam06@gmail.com-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="tel:+919110395993"><img src="https://img.shields.io/badge/Mobile-+91%209110395993-C41E3A?style=flat-square&logo=whatsapp&logoColor=white" /></a>&nbsp;
-  
-  <a href="https://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253"><img src="https://img.shields.io/badge/LinkedIn-Connect-C41E3A?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/madhan-mohan-reddy-peram-63181b253"><img src="https://img.shields.io/badge/LinkedIn-Connect-C41E3A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFjLjk3OSAwIDEuNzc4LS43NzMgMS43NzgtMS43MjlWMS43MjlDMjQgLjc3NCAyMy4yMDUgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" /></a>
 </div>
 
 ---
